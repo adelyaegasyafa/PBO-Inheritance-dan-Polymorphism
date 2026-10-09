@@ -29,8 +29,8 @@ Pada `Main.java`, objek dibuat dengan data dummy lalu method-methodnya dipanggil
 ├── Bentuk.java
 ├── BujurSangkar.java
 ├── Lingkaran.java
-├── Main.java
 ├── Silinder.java
+├── Main.java
 ├── README.md
 └── output.png
 ```

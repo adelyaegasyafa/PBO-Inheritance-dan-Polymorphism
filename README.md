@@ -1,7 +1,7 @@
 # Inheritance & Polymorphism 
 
 Tugas **Latihan/Eksplorasi Materi Inheritance dan Polymorphism**
-Mata Kuliah Pemrograman Berorientasi Objek Program Studi Teknik Informatika Fakultas Teknik Universitas Mataram.
+Mata Kuliah Pemrograman Berorientasi Objek, Program Studi Teknik Informatika, Fakultas Teknik, Universitas Mataram.
 
 | | |
 |---|---|
@@ -29,10 +29,10 @@ Pada `Main.java`, objek dibuat dengan data dummy lalu method-methodnya dipanggil
 ├── Bentuk.java
 ├── BujurSangkar.java
 ├── Lingkaran.java
-├── Silinder.java
 ├── Main.java
+├── Silinder.java
 ├── README.md
-└── 
+└── output.png
 ```
 
 ## Cara Menjalankan
